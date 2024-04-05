@@ -3,6 +3,8 @@ uzuraDev is a Web Developer.
 
 I develop both professionally and for fun.
 
+![](https://komarev.com/ghpvc/?username=your-uzuraDev)
+
 <!--
 **uzuraDev/uzuraDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

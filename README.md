@@ -1,11 +1,11 @@
-### I'm uzuraDev 😺
+<h1>### I'm uzuraDev 😺</h1>
 uzuraDev is a Web Developer.
 
 I develop both professionally and for fun.
 
 ![](https://komarev.com/ghpvc/?username=your-uzuraDev)
 
-My Skill Stack<br /><br />
+<h1>My Skill Stack</h1><br /><br />
 <img src="https://img.shields.io/badge/-Next.js-000000.svg?logo=next.js&style=plastic">
 <img src="https://img.shields.io/badge/-React-61DAFB.svg?logo=react&style=plastic">
 <img src="https://img.shields.io/badge/-Javascript-F7DF1E.svg?logo=javascript&style=plastic">

@@ -13,3 +13,11 @@ My Skill Stack<br /><br />
 <img src="https://img.shields.io/badge/-Vue.js-4FC08D.svg?logo=vue.js&style=plastic">
 <img src="https://img.shields.io/badge/-Html5-E34F26.svg?logo=html5&style=plastic">
 <img src="https://img.shields.io/badge/-Css3-1572B6.svg?logo=css3&style=plastic">
+
+![uzuraDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=uzuraDev&show_icons=true&theme=transparent)
+https://github-profile-trophy.vercel.app/?username=uzuraDev&theme=onedark
+
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzuraDev&layout=compact&show_icons=true&theme=onedark" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=uzuraDev&theme=onedark&show_icons=ture" />
+</p>
